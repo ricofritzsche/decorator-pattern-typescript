@@ -28,8 +28,8 @@ Note: The --allow-read flag is only necessary if the code reads files, which is 
 Exploring the Code
 
     main.ts: The entry point where we bring everything together.
-    car.ts: Defines the basic car and its decorators.
-    Other files may include additional decorators or utilities.
+    car.ts: Defines the basic car.
+	decorators.ts: Contains car decorators.
 
 ## Feedback & Contributions
 
