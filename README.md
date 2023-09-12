@@ -2,6 +2,8 @@
 
 This repository showcases the Decorator Design Pattern using a real-world analogy of a car assembly. The code is written in TypeScript and designed to run in the Deno runtime.
 
+Read the article [here](https://blog.ricofritzsche.de/typescript-by-example-the-decorator-design-pattern-77ce7c76e126)
+
 ## About
 
 The Decorator Pattern is a structural design pattern that allows you to dynamically attach new behaviors to objects. Using the analogy of customizing a car with various features, we walk through this pattern, making it easier to grasp and implement.
@@ -38,3 +40,5 @@ Feedback, issues, and pull requests are more than welcome! This repo is meant to
 ## License
 
 This project is under the MIT License. See LICENSE for details.
+
+## Checkout the authors [homepage](https://ricofritzsche.me)
